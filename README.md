@@ -4,7 +4,7 @@
 프론트엔드부터 백엔드, 데이터베이스, 머신러닝까지 폭넓은 분야에 관심이 있습니다.
 
 ### 💻 사용 가능한 언어
-- C, C++, Python, Java
+- C, C++, Python, ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - JavaScript (ES6+), HTML, CSS
 
 ### 🌐 프레임워크 & 라이브러리 경험
